@@ -47,15 +47,8 @@ int main(void)
 ```
 
 
-## OUTPUT
-
-
-
-
-
-
-
-
+## OUTPUT:
+<img width="816" height="164" alt="Screenshot from 2024-03-09 11-30-39" src="https://github.com/user-attachments/assets/f0fa952e-6525-4262-b89a-5299e6c060da" />
 
 
 
@@ -83,18 +76,9 @@ exit(0);}
 ```
 
 
-
-
-
-
-
-
-
-
 ## OUTPUT
+<img width="817" height="151" alt="Screenshot from 2024-03-09 11-30-53" src="https://github.com/user-attachments/assets/8ef590d5-b5b8-4c8c-8a18-dbb2b88f61a3" />
 
-
-![alt text](image.png)
 
 
 
@@ -130,34 +114,10 @@ printf("Running ps with execlp. Now with path specified\n");
 ```
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## OUTPUT
 
-![alt text](<Screenshot from 2024-03-11 18-21-12.png>)
+<img width="1280" height="705" alt="Screenshot from 2024-03-09 11-33-21" src="https://github.com/user-attachments/assets/51145158-5bf7-4807-a6be-074bec3f1f85" />
 
-![alt text](<Screenshot from 2024-03-11 18-21-18.png>)
-
-
-
-![alt text](<Screenshot from 2024-03-11 18-21-24.png>)
 
 
 
