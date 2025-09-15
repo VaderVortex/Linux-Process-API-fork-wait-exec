@@ -47,22 +47,8 @@ int main(void)
 ```
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## OUTPUT
 
-
-![alt text](image-1.png)
 
 
 
